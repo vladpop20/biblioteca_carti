@@ -3,6 +3,7 @@ Cartile sunt enumerate dupa urmatoarele criterii: Nume carte, Nume autor, Prenum
 
 Aplicatia Biblioteca_20_carti.exe are un panou de control, pentru care utilizitatorul trebuie sa introduca litere pentru comenziile prescurtate
 Utilizitatorul introduce:
+
 a - pentru a citi datele din fisier intr-un vector de structuri de date cu campuri
 corespunzatoare informatiilor \nde retinut despre fiecare carte
 b - pentru a introduce o carte noua
